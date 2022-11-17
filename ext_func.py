@@ -13,7 +13,9 @@
 #         return False
 #     else:
 #         return True
+# It contains functions for use in main.py
 
+# This function to convert mask to wildcard mask
 def to_revert_mask(mask_of_network):
     i = 0
     wild_mask = ''

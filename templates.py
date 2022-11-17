@@ -1,3 +1,8 @@
+# It contains output templates in a convenient format:
+# Type of address
+# Decimal value
+# Binary value
+
 template_network = '''
 Network: {1}.{2}.{3}.{4}
 Bin network: {1:08b}.{2:08b}.{3:08b}.{4:08b}
