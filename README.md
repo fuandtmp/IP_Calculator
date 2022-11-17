@@ -15,6 +15,7 @@ Download the project
 
 ```sh
 git clone https://github.com/fuandtmp/IP_Calculator.git
+cd IP_Calculator
 ```
 
 After that execute main.py:
