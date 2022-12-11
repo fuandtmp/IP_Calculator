@@ -1,20 +1,3 @@
-# Some legacy shit
-# import re
-# def is_correct_ip_address(address):
-#     pattern_of_address = re.compile(
-#         r'((?:(?:25[0-5]|2[0-4]\d|((1\d{2})|([1-9]?\d)))\.){3}(?:25[0-5]|2[0-4]\d|((1\d{2})|('
-#         r'[1-9]?\d))))')
-#     if pattern_of_address.search(address) is not None:
-#         return True
-#     else:
-#         return False
-# def is_correct_mask(mask):
-#     if (mask < 0) or (mask > 32):
-#         return False
-#     else:
-#         return True
-# It contains functions for use in main.py
-
 # This function to convert mask to wildcard mask
 def to_revert_mask(mask_of_network):
     i = 0
