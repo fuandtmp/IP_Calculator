@@ -8,6 +8,11 @@ My first small python project. During the study of python I will add functionali
 - Displays netmask, wildcard, network, broadcast, hostmin, hostmax, and hosts in use.
 - Displays binary values
 
+## Known bugs
+
+- Incorrect value of the maximum and minimum IP address with a mask of 31 and 32.
+- There is no validation of the entered IP address and mask.
+
 
 ## Usage
 
