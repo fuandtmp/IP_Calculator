@@ -11,7 +11,7 @@ My first small python project. During the study of python I will add functionali
 ## Known bugs
 
 - Incorrect value of the maximum and minimum IP address with a mask of 31 and 32.
-- There is no validation of the entered IP address and mask.
+- There is no validation of the entered mask.
 
 
 ## Usage
