@@ -1,4 +1,4 @@
-# Version 0.2.0
+# Version 0.2.1
 # connect external functions and templates from templates.py and ext_func.py
 import templates
 import ext_func
